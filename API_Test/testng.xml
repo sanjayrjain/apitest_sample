@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="API Suite validation test suite" parallel="tests">
+ <test name="REST API Test">
+
+  <classes>
+   <class name="com.assurity.apitestcases.organisationTestCase"/>
+  </classes>
+  <!--TEST SUITE BLOCK-->
+ </test>
+</suite>

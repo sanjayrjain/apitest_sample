@@ -1,0 +1,229 @@
+{
+    "query": {
+        "offset": 0,
+        "count": 20,
+        "total": 379
+    },
+    "organisations": [
+        {
+            "id": 917,
+            "name": "Crown Law Office",
+            "description": "The Crown Law Office provides legal advice and representation to the New Zealand Government, its departments, ministries and agencies in matters affecting the Crown. It has two primary aims:\n- to ensure that the operations of executive government are conducted lawfully \n- to ensure that the government is not prevented, through the legal process, from lawfully implementing its chosen policies.\n\nThe Solicitor-General, the chief executive of the Crown Law Office, is the chief legal advisor to the Government (subject to any views expressed by the Attorney-General). In addition, the Solicitor-General is responsible for the conduct of the prosecution of indictable crime. The office of Solicitor-General is entrusted by statute with specific rights, duties and functions and is also responsible for performing most of the statutory and ex-officio duties of the Attorney-General. \n\nThe Office is organised into three groups - Constitutional, Criminal Process and Public Law, which reflect the range of legal advice and litigation services provided. Each group is headed by a Deputy Solicitor-General and comprises a number of specialist teams.",
+            "sector": {
+                "id": 5,
+                "name": "Public Service",
+                "parentSector": "2"
+            },
+            "parent": 0
+        },
+        {
+            "id": 920,
+            "name": "Department of Conservation",
+            "description": "<p>DOC manages Crown land which is protected for conservation like national, forest and maritime parks.  It also protects native plants and animals and looks after tramping huts and walks.</p>\n<p> </p>",
+            "sector": {
+                "id": 5,
+                "name": "Public Service",
+                "parentSector": "2"
+            },
+            "parent": 0
+        },
+        {
+            "id": 921,
+            "name": "Department of Corrections",
+            "description": "The Department of Corrections was established in 1995 to manage custodial sentences and non-custodial sentences and orders imposed by the courts.\n\nTwo key themes of the Department are: ensuring effective offender management, and contributing to reducing re-offending.",
+            "sector": {
+                "id": 5,
+                "name": "Public Service",
+                "parentSector": "2"
+            },
+            "parent": 0
+        },
+        {
+            "id": 922,
+            "name": "Department of Internal Affairs",
+            "description": "The Department of Internal Affairs is home to a range of services supporting government, communities and citizenship. This includes:\n<ul><li>the storage, preservation, and conservation of knowledge, information, heritage collections and taonga through the National Library of New Zealand and Archives New Zealand,</li>\n<li>the development and implementation of the government’s ICT Strategy, </li>\n<li>preparation for, response to and recovering from disasters through the Ministry of Civil Defence and Emergency Management.</li>\n<li>the policy development including Local Government and community, gambling, racing, censorship and identity management, </li>\n<li>the management of regulatory and compliance operations such as Anti-spam, censorship, gambling, intelligence, anti-money laundering and countering financing of terrorism, </li>\n<li>the management and delivery of passports, citizenship operations, births, deaths and marriages, civil unions, name changes and related services. </li>\n</ul>\nOthers areas include:\n<ul><li>the Office of Ethnic Affairs, </li>\n<li>the Lottery Grants Board and its committees, </li>\n<li>the Community Organisation Grants Scheme (COGS) and other Crown Funding Schemes.</li>\n</ul>",
+            "sector": {
+                "id": 5,
+                "name": "Public Service",
+                "parentSector": "2"
+            },
+            "parent": 0
+        },
+        {
+            "id": 923,
+            "name": "Department of the Prime Minister and Cabinet",
+            "description": "DPMC serves the Executive (the Prime Minister, the Governor-General, and the Cabinet) through the provision of high quality impartial advice and support services which make government decision-making easier at both strategic and operational levels. \n\nThe department is made up of five groups each with a distinct role: Cabinet Office including the Honours Secretariat, Policy Advisory Group, External Assessments Bureau, Domestic and External Security Group, and Government House.\n\nThe Cabinet Office is responsible for running Cabinet and Cabinet Committees. Cabinet Office staff attend meetings and prepare decisions of all the Cabinet and Cabinet Committee meetings held during the week, and distribute them to Ministers. It is also involved in constitutional policy and issues covered by the Cabinet Manual, the guide to the working of central government. A Legislation Programme Co-ordinator supports the Chair of the Cabinet Legislation Committee. \n\nThe Honours Secretariat administers the New Zealand Honours System, including the institution and conferring of honours, decorations and medals. \n\nPolicy Advisory Group provides advice on issues of the day directly to the Prime Minister and to other Ministers. A part of the advisors' job is to co-ordinate the advice coming in from different government departments. \n\nExternal Assessments Bureau (EAB) provides reports on political, economic or strategic events and trends overseas which affect New Zealand's interests to the Prime Minister, other ministers, and to senior officials in other departments. \n\nDomestic and External Security Group (DESG) advises the Prime Minister on security and related issues in New Zealand and overseas.\n\nGovernment House ensures that the Governor-General is provided with all the support required to carry out constitutional, ceremonial and representational duties.",
+            "sector": {
+                "id": 5,
+                "name": "Public Service",
+                "parentSector": "2"
+            },
+            "parent": 0
+        },
+        {
+            "id": 924,
+            "name": "Education Review Office",
+            "description": "The Education Review Office is the government department which reviews and reports on the quality of education in all New Zealand schools andearly childhood services. This includes primary and secondary schools, private schools, kura kaupapa Maori (Maori language immersion schools), specialschools, kohanga reo (Maori language early childhood groups), and homeschooling.",
+            "sector": {
+                "id": 5,
+                "name": "Public Service",
+                "parentSector": "2"
+            },
+            "parent": 0
+        },
+        {
+            "id": 925,
+            "name": "Government Communications Security Bureau",
+            "description": "The Government Communications Security Bureau contributes to the security of New Zealand through:\n\n-providing foreign Signals Intelligence (SIGINT) to support and inform Government decision making\n\n-ensuring the integrity, availability and confidentiality of official information through the provision of Information Systems Security (INFOSEC) services to departments and agencies of the New Zealand Government\n\n-contributing to the protection of the national critical infrastructure from information-borne threats.",
+            "sector": {
+                "id": 5,
+                "name": "Public Service",
+                "parentSector": "2"
+            },
+            "parent": 0
+        },
+        {
+            "id": 926,
+            "name": "Inland Revenue Department",
+            "description": "Inland Revenue's mission is to provide quality tax and social policy services to Government.  We aim to maximise compliance with New Zealand's tax and social policy legislation through education, quality service and appropriate enforcement.\n\nInland Revenue provides service to all New Zealanders.  We work within the Inland Revenue Acts and other relevant laws to collect the bulk of the revenue needed by government to fund its programmes.  This revenue is used according to government priorities and funds many of the services that the New Zealand community wants and needs.  We also work in ways consistent with the spirit of the Treaty of Waitangi.\n\nInland Revenue:\n- collects approximately 80% of government's revenue \n- administers twenty-two types of taxes \n- collects and disburses child support \n- pays family assistance to those eligible \n- administers the collection of the Student Loan Scheme \n- deals with over 5.1 million taxpaying entities \n- works with over 4,000 tax agents, who represent about 1.5 million taxpayers \n- operates from 22 sites nationwide \n- employs over 4,500 staff.",
+            "sector": {
+                "id": 5,
+                "name": "Public Service",
+                "parentSector": "2"
+            },
+            "parent": 0
+        },
+        {
+            "id": 927,
+            "name": "Land Information New Zealand",
+            "description": "Land Information New Zealand (LINZ) is a government department with the following responsibilities:\n\nprovides a secure environment for buying, selling and subdividing property through:\n - guaranteed titles for property dealings\n - an accurate system of land boundary definition\n\nadministers the Crown's interests in land through:\n - acquisition of Crown land\n - disposal of Crown land\n - administration of Crown land\n - management of Crown land liabilities\n\nprovides a nationally consistent valuation system for rating purposes\n\nassists Government and its agencies to address Treaty of Waitangi issues through the provision of excellent information on land history and status\n\nensures that New Zealand has high quality databases for its survey, mapping, hydrographic and property activities.",
+            "sector": {
+                "id": 5,
+                "name": "Public Service",
+                "parentSector": "2"
+            },
+            "parent": 0
+        },
+        {
+            "id": 928,
+            "name": "Ministry for Culture and Heritage",
+            "description": "The Ministry for Culture and Heritage provides advice to the New Zealand government on culture and heritage matters. It assists government inits provision and management of cultural resources for the benefit of all New Zealanders, and undertakes a number of activities that support and promote the history and heritage of our country.",
+            "sector": {
+                "id": 5,
+                "name": "Public Service",
+                "parentSector": "2"
+            },
+            "parent": 0
+        },
+        {
+            "id": 929,
+            "name": "Ministry for Primary Industries",
+            "description": "The Ministry for Primary Industries (MPI) is focused on growing and protecting New Zealand. MPI works right across the sector from primary producers through to retailers and consumers.",
+            "sector": {
+                "id": 5,
+                "name": "Public Service",
+                "parentSector": "2"
+            },
+            "parent": 0
+        },
+        {
+            "id": 930,
+            "name": "Ministry for the Environment",
+            "description": "The Ministry for the Environment is the New Zealand Government’s principal adviser on matters that affect the environment. It provides leadership across central and local government.\n\nIt works in partnership with others to achieve a good environment for all New Zealanders.\n\nThe Ministry also works to ensure purposeful and consistent environmental governance at all levels.",
+            "sector": {
+                "id": 5,
+                "name": "Public Service",
+                "parentSector": "2"
+            },
+            "parent": 0
+        },
+        {
+            "id": 932,
+            "name": "Ministry of Business, Innovation and Employment",
+            "description": "<p>The Ministry of Business, Innovation and Employment brings together all the existing functions of the Ministry of Economic Development, Ministry of Science and Innovation, Department of Labour and Department of Building and Housing. It has a central role in shaping and delivering a strong economy. It will back New Zealand’s talent, ideas and enterprise by:</p>\n<p> </p>\n<ul><li>Building trusted competitive and effectively regulated markets with participation from confident businesses and well-informed consumers.</li>\n<li>ensuring that business have access to the skills they need, and that current and future demand for skills is matched by supply</li>\n<li>ensuring safe and fair workplaces</li>\n<li>developing and supporting a high-performing science and innovation system</li>\n<li>lifting firms’ capability – including ideas, access to capital and relationships – so that they can succeed internationally</li>\n<li>supporting the development of efficient, effective infrastructure</li>\n<li>enhancing the value of New Zealand’s natural resources.</li>\n</ul>",
+            "sector": {
+                "id": 5,
+                "name": "Public Service",
+                "parentSector": "2"
+            },
+            "parent": 0
+        },
+        {
+            "id": 933,
+            "name": "Ministry of Defence",
+            "description": "The Ministry of Defence supports the Government in protecting New Zealand's territorial sovereignty and meeting its responsibilities for the maintenance of regional and global security.  The purpose of the Ministry of Defence is to provide high quality advice to enable the Government to make well-informed judgements on the defence of New Zealand and its interests and to make available the resources which are needed. In carrying out this task, the Ministry works closely with the New Zealand Defence Force.\n\nThe Ministry purchases major items of military equipment approved by the Government and manages each contract through to delivery. The Ministry also assesses and audits New Zealand Defence Force functions, duties and projects, and major equipment purchasing activities.",
+            "sector": {
+                "id": 5,
+                "name": "Public Service",
+                "parentSector": "2"
+            },
+            "parent": 0
+        },
+        {
+            "id": 934,
+            "name": "Ministry of Education",
+            "description": "The following key areas summarise the overall focus of the Ministry's work:\n\n1) More children gaining strong learning foundations;\n\n2) More students participating in and achieving in education;\n\n3) Provision of services - directly and indirectly - to children and young people with special education needs;\n\n4) Better quality schools and teachers;\n\n5) More people continuing to develop their capabilities;\n\n6) Maori education;\n\n7) Families and communities more strongly engaged in education;\n\n8) Increasing Ministry capability\n\nThe Ministry aims to build on the results already achieved so that we can make a significant difference to further the achievement of improved outcomes for our students, families and communities and enhance the country's long-term economic prosperity and social wellbeing.",
+            "sector": {
+                "id": 5,
+                "name": "Public Service",
+                "parentSector": "2"
+            },
+            "parent": 0
+        },
+        {
+            "id": 934,
+            "name": "Ministry of Education",
+            "description": "The following key areas summarise the overall focus of the Ministry's work:\n\n1) More children gaining strong learning foundations;\n\n2) More students participating in and achieving in education;\n\n3) Provision of services - directly and indirectly - to children and young people with special education needs;\n\n4) Better quality schools and teachers;\n\n5) More people continuing to develop their capabilities;\n\n6) Maori education;\n\n7) Families and communities more strongly engaged in education;\n\n8) Increasing Ministry capability\n\nThe Ministry aims to build on the results already achieved so that we can make a significant difference to further the achievement of improved outcomes for our students, families and communities and enhance the country's long-term economic prosperity and social wellbeing.",
+            "sector": {
+                "id": 5,
+                "name": "Public Service",
+                "parentSector": "2"
+            },
+            "parent": 0
+        },
+        {
+            "id": 935,
+            "name": "Ministry of Foreign Affairs and Trade",
+            "description": "The Ministry of Foreign Affairs and Trade manages the government's dealings with other countries and international organisations and assistsNew Zealanders in difficulty overseas.",
+            "sector": {
+                "id": 5,
+                "name": "Public Service",
+                "parentSector": "2"
+            },
+            "parent": 0
+        },
+        {
+            "id": 937,
+            "name": "Ministry of Health",
+            "description": "The Ministry of Health is responsible for ensuring the health and disability system works for New Zealanders. It is the Government's primary advisor on health policy and disability support services and is responsible for:\n-  policy advice on improving health outcomes, reducing inequalities, and increasing participation\n-  acting as the Minister’s agent\n-  monitoring the performance of District Health Boards, and other health sector Crown entities\n-  implementing, administering and enforcing relevant legislation and regulations\n-  providing health information and processing payments\n-  facilitating collaboration and coordination within and across sectors\n-  nationwide planning and maintenance of service frameworks\n-  planning and funding public health, disability support services and other service areas that are retained centrally.",
+            "sector": {
+                "id": 5,
+                "name": "Public Service",
+                "parentSector": "2"
+            },
+            "parent": 0
+        },
+        {
+            "id": 938,
+            "name": "Ministry of Justice",
+            "description": "The Ministry exists to create a fairer and safer New Zealand. It contributes to the shared justice sector outcomes:\n\nSafer communities, being communities in which there is reduced crime and in which safety and well-being is enhanced through partnerships;\n\nA fairer, more credible and more effective justice system, being a system in which people's interactions are underpinned by the rule of law and justice services are more equitable, credible and accessible.\n\nAs the lead Justice sector agency the Ministry works collaboratively with the Department of Corrections and New Zealand Police to achieve these two key outcomes for New Zealand communities.\n\nThe Ministry also provides services and facilities that support judicial decision-making processes and the process of bringing proceedings to courts, tribunals and authorities to be heard and decided.",
+            "sector": {
+                "id": 5,
+                "name": "Public Service",
+                "parentSector": "2"
+            },
+            "parent": 0
+        },
+        {
+            "id": 939,
+            "name": "Ministry of Māori Development",
+            "description": "Te Puni Kokiri contributes to accelerating Maori Development in four specific areas:\n- Providing high quality advice to Government;\n- Working with Maori to establish development targets and build capacity;\n- Monitoring and auditing programmes delivered by Maori and mainstream agencies;\n- Working with other Government departments and agencies to improve outcomes for Maori.",
+            "sector": {
+                "id": 5,
+                "name": "Public Service",
+                "parentSector": "2"
+            },
+            "parent": 0
+        }
+    ]
+}
